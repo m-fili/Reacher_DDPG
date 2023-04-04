@@ -30,16 +30,17 @@ $dX_t = \theta(\mu - X_t) dt + \sigma dW_t$
 |:--------------------------------|:---------:|
 | $\gamma$                        |   0.99    |
 | $\tau$                          |   0.001   |
-| target network update frequency |    10     |
-| local network update frequency  |     1     |
-| buffer size                     | 1,000,000 |
-| batch size                      |    128    |
-| target score                    |   30.0    |
 | $lr_{actor}$                    |   0.001   |
 | $lr_{critic}$                   |  0.0001   |
 | $\mu_{OHN}$                     |     0     |
 | $\theta_{OHN}$                  |    0.1    |
 | $\sigma_{OHN}$                  |    0.2    |
+| target network update frequency |    10     |
+| local network update frequency  |     1     |
+| buffer size                     | 1,000,000 |
+| batch size                      |    128    |
+| target score                    |   30.0    |
+
 
 
 where OHN, is the Ornstein-Uhlenbeck noise.
