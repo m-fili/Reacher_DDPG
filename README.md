@@ -65,3 +65,11 @@ see how to train the agent.
 
 ## 4. Visualizing the Agent
 To Visualize the agent, you can use `visualize_agent.py` file.
+
+<br>
+<br>
+
+### References
+1. [Continuous Control with Deep Reinforcement Learning](https://arxiv.org/abs/1509.02971)
+2. [Udacity Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)
+3. [Udacity Deep Reinforcement Learning GitHub Repository](https://github.com/udacity/deep-reinforcement-learning)
