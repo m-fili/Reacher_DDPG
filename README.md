@@ -1,9 +1,9 @@
 # Solving Reacher Environment using DDPG Algorithm
 
 
-| Random Agent                        | Trained Agent                        |
-|:------------------------------------|:-------------------------------------|
-| <img src="Images/random_agent.gif"> | <img src="Images/trained_agent.gif"> |
+|             Random Agent             |             Trained Agent             |
+|:------------------------------------:|:-------------------------------------:|
+| <img src="Images/random_agent.gif">  | <img src="Images/trained_agent.gif">  |
 
 
 
