@@ -1,6 +1,14 @@
 # Solving Reacher Environment using DDPG Algorithm
 
 
+| Random Agent                        | Trained Agent                        |
+|:------------------------------------|:-------------------------------------|
+| <img src="Images/random_agent.gif"> | <img src="Images/trained_agent.gif"> |
+
+
+
+
+
 ## 1. Introduction
 In this project, we work with the 
 [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher)
