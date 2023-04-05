@@ -1,3 +1,6 @@
+![GitHub](https://img.shields.io/github/license/m-fili/Reacher_DDPG?color=g&style=plastic)
+
+
 # Solving Reacher Environment using DDPG Algorithm
 
 
